@@ -2,12 +2,13 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "My name is\n";
-    std::cout << "Taylor\n";
+    cout << "Hello World!\t";
+    cout << "My name is\a";
+    cout << "Taylor\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
