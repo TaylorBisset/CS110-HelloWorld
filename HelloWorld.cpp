@@ -6,9 +6,10 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\t";
-    cout << "My name is\a";
+    cout << "Hello World!\n\t";
+    cout << "My name is \a";
     cout << "Taylor\n";
+    system("read -p 'Press Enter to continue...' var");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
