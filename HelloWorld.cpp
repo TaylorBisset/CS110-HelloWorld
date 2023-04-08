@@ -9,7 +9,13 @@ int main()
     cout << "Hello World!\n\t";
     cout << "My name is \a";
     cout << "Taylor\n";
+    /*
+    for linux, use: 
     system("read -p 'Press Enter to continue...' var");
+    for Windows, use: 
+    system("pause");
+    */
+   system("pause")
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
